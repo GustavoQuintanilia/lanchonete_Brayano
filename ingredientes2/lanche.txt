@@ -1,3 +1,4 @@
+BIG LANCHES FAMÍLIA:
 -Big X-Burguer
 	*3 hamburguers 
 	*Presunto
@@ -7,7 +8,6 @@
 	*Pão de leite
 	*Batata frita
 	
-BIG LANCHES FAMÍLIA:
 -Big X-Salada
 	*3 hamburguers 
 	*Presunto
@@ -50,4 +50,112 @@ BIG LANCHES FAMÍLIA:
 	*Pão de leite
 	*Batata frita	 
 
+-------------------------------------------------
+
 LANCHES TRADICIONAIS 
+-X-Burguer
+	*2 hamburguers
+	*Queijo
+	*Maionese
+	*Pão de leite
+
+-X-Salada
+	*2 hamburguers
+	*Queijo
+	*Maionese
+	*Alface
+	*Tomate
+	*Pão de leite
+
+-X-Egg
+	*2 hamburguers
+	*Queijo
+	*Ovo
+	*Maionese
+	*Pão de leite
+
+-X-Calabresa
+	*2 hamburguers
+	*Queijo
+	*Calabresa defumada
+	*Maionese
+	*Pão de leite
+
+-X-Bacon
+	*2 hamburguers
+	*Queijo
+	*Bacon
+	*Maionese
+	*Pão de leite
+
+-X-Tudo
+	*2 hamburguers
+	*Queijo
+	*Bacon
+	*Calabresa
+	*Ovo
+	*Maionese
+	*Alface
+	*Tomate
+	*Pão de leite
+
+-------------------------------------------------
+
+HOT DOGS
+-Hot Dog Simples
+	*1 salsicha
+	*Milho
+	*Ervilha
+	*Catchup
+	*Maionese
+	*Molho especial
+	*Batata palha
+	*Pão
+
+-Hot Dog Completo
+	*1 salsicha
+	*Milho
+	*Ervilha
+	*Catchup
+	*Maionese
+	*Molho especial
+	*Batata palha
+	*Pão
+
+-Hot Dog com Calabresa
+	*1 salsicha
+	*Milho
+	*Ervilha
+	*Calabresa moída
+	*Catchup
+	*Maionese
+	*Molho especial
+	*Batata palha
+	*Pão
+
+-Hot Dog com Bacon
+	*1 salsicha
+	*Milho
+	*Ervilha
+	*Bacon moído
+	*Catchup
+	*Maionese
+	*Molho especial
+	*Batata palha
+	*Pão
+
+-Hot Dog Especial
+	*1 salsicha
+	*Milho
+	*Ervilha
+	*Bacon
+	*Calabresa
+	*Queijo mussarela
+	*Catchup
+	*Maionese
+	*Molho especial
+	*Alface
+	*Tomate
+	*Batata palha
+	*Pão
+
