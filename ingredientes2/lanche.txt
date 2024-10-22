@@ -1,0 +1,53 @@
+-Big X-Burguer
+	*3 hamburguers 
+	*Presunto
+	*Queijo
+	*Mortandela
+	*Maionese
+	*Pão de leite
+	*Batata frita
+	
+BIG LANCHES FAMÍLIA:
+-Big X-Salada
+	*3 hamburguers 
+	*Presunto
+	*Queijo
+	*Mortandela
+	*Maionese
+	*Alface
+	*Tomate
+	*Pão de leite
+	*Batata frita
+
+-Big X-Calabresa
+	*3 hamburguers 
+	*Presunto
+	*Queijo
+	*Mortandela
+	*Calabresa
+	*Maionese
+	*Pão de leite
+	*Batata frita	
+
+-Big X-Bacon
+	*3 hamburguers 
+	*Presunto
+	*Queijo
+	*Mortandela
+	*Bacon
+	*Maionese
+	*Pão de leite
+	*Batata frita	 
+
+-Big X-Tudo
+	*4 hamburguers 
+	*Presunto
+	*Queijo
+	*Calabresa
+	*Bacon
+	*Mortandela
+	*Maionese
+	*Pão de leite
+	*Batata frita	 
+
+LANCHES TRADICIONAIS 
